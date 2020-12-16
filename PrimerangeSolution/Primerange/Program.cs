@@ -35,6 +35,7 @@ namespace Primerange
 
                 if(flag==1)
                     Console.WriteLine(i);
+                
             }
         }
 
@@ -42,6 +43,7 @@ namespace Primerange
         {
             new Program();
             Console.ReadKey();
+            Console.WriteLine("Sanskruti Jain");
         }
     }
 }
