@@ -1,0 +1,7 @@
+E:\Gitdemo\PrimerangeSolution\Primerange\bin\Debug\Primerange.exe.config
+E:\Gitdemo\PrimerangeSolution\Primerange\bin\Debug\Primerange.exe
+E:\Gitdemo\PrimerangeSolution\Primerange\bin\Debug\Primerange.pdb
+E:\Gitdemo\PrimerangeSolution\Primerange\obj\Debug\Primerange.csprojAssemblyReference.cache
+E:\Gitdemo\PrimerangeSolution\Primerange\obj\Debug\Primerange.csproj.CoreCompileInputs.cache
+E:\Gitdemo\PrimerangeSolution\Primerange\obj\Debug\Primerange.exe
+E:\Gitdemo\PrimerangeSolution\Primerange\obj\Debug\Primerange.pdb
